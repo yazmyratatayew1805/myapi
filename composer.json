@@ -1,0 +1,16 @@
+{
+    "name": "user/myapi",
+    "description": "user api",
+    "autoload": {
+        "psr-4": {
+            "User\\Myapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Язмурад Атаев",
+            "email": "yazmyratatayew1805@gmail.com"
+        }
+    ],
+    "require": {}
+}
